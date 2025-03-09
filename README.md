@@ -11,3 +11,6 @@ Foi utilizado:
     - Math floorf() ( Funcao de arrendodamento para numeros inteiros, para o menor numero)
     - Math random() ( Funcao que gera um numero aleatorio )
 
+<p>Para adicionar nomes na lista, clique em adicionar.</p>
+<p>Apos ter adicionado alguns nomes na lista, clique em sortear amigo, assim sera informado o nome do amigo sorteado.</p>
+
